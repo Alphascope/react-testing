@@ -20,3 +20,7 @@
     ```bash
     $ npx wdio run wdio.conf.js
     ```
+### Chromatic
+
+1. npm install --save-dev chromatic
+2. npx chromatic --project-token=a7238744cb4d
