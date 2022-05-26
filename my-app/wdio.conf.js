@@ -23,9 +23,7 @@ exports.config = {
 	// should work too though). These services define specific user and key (or access key)
 	// values you need to put in here in order to connect to these services.
 	//
-	user: sauceOptions.username,
-	key: sauceOptions.accesskey,
-	region: 'us',
+	region: 'eu',
 	services: [
 		[
 			'sauce',
